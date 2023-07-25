@@ -1,0 +1,15 @@
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\bin\Debug\net6.0\StarWars_DDD.exe
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\bin\Debug\net6.0\StarWars_DDD.deps.json
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\bin\Debug\net6.0\StarWars_DDD.runtimeconfig.json
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\bin\Debug\net6.0\StarWars_DDD.dll
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\bin\Debug\net6.0\StarWars_DDD.pdb
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.csproj.AssemblyReference.cache
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.AssemblyInfoInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.AssemblyInfo.cs
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.csproj.CoreCompileInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.dll
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\refint\StarWars_DDD.dll
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.pdb
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\StarWars_DDD.genruntimeconfig.cache
+C:\Users\ZIANI Mohammed\source\repos\StarWars_DDD\StarWars_DDD\obj\Debug\net6.0\ref\StarWars_DDD.dll

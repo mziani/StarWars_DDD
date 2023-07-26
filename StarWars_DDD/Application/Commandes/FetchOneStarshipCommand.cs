@@ -8,6 +8,9 @@ namespace StarWars_DDD.Application.Commands
 {
     public class FetchOneStarshipCommand : ICommand<StarshipResponse>
     {
+        public FetchOneStarshipCommand(HttpClient @object)
+        {
+        }
 
         public IResponseHandler<StarshipResponse> SuccessHandler { get; set; }
 

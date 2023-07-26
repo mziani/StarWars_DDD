@@ -1,0 +1,15 @@
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\bin\Debug\net6.0\PoemApp.exe
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\bin\Debug\net6.0\PoemApp.deps.json
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\bin\Debug\net6.0\PoemApp.runtimeconfig.json
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\bin\Debug\net6.0\PoemApp.dll
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\bin\Debug\net6.0\PoemApp.pdb
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.csproj.AssemblyReference.cache
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.AssemblyInfoInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.AssemblyInfo.cs
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.csproj.CoreCompileInputs.cache
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.dll
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\refint\PoemApp.dll
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.pdb
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\PoemApp.genruntimeconfig.cache
+C:\Users\ZIANI Mohammed\source\repos\PoemApp\PoemApp\obj\Debug\net6.0\ref\PoemApp.dll

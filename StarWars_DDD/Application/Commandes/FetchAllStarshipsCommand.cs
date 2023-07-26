@@ -7,6 +7,10 @@ namespace StarWars_DDD.Application.Commands
 {
     public class FetchAllStarshipsCommand : ICommand<List<StarshipResponse>>
     {
+        public FetchAllStarshipsCommand(HttpClient @object)
+        {
+        }
+
         public IResponseHandler<List<StarshipResponse>> SuccessHandler { get; set; }
 
         public IErrorHandler ErrorHandler { get; set; }

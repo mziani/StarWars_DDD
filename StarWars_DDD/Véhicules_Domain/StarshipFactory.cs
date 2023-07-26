@@ -1,4 +1,5 @@
 ﻿using System;
+using StarWars_DDD.Domain;
 
 namespace StarWars_DDD.Véhicules_Domain
 {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarWars_DDD.Interfaces
+namespace StarWars_DDD.Domain.Interfaces
 {
     public interface IVehiculeSpecifique
     {

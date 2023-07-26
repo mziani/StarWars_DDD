@@ -1,4 +1,4 @@
-﻿using StarWars_DDD.Interfaces;
+﻿using StarWars_DDD.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

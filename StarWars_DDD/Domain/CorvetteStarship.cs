@@ -1,8 +1,8 @@
-﻿using StarWars_DDD.Interfaces;
+﻿using StarWars_DDD.Domain;
 using System;
 using System.Xml.Linq;
 
-namespace StarWars_DDD.Véhicules_Domain
+namespace StarWars_DDD.Domain
 {
     public class CorvetteStarship : Starship
     {

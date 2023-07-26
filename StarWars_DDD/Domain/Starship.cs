@@ -1,14 +1,14 @@
-﻿using StarWars_DDD.Interfaces;
+﻿using StarWars_DDD.Domain.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StarWars_DDD.Véhicules_Domain
+namespace StarWars_DDD.Domain
 {
 
-        public class Starship : IVehicule, IVehiculeSpecifique
+    public class Starship : IVehicule, IVehiculeSpecifique
     {
 
         public string? Name { get; set; }

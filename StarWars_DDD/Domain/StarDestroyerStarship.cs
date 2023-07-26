@@ -1,8 +1,7 @@
-﻿using StarWars_DDD.Véhicules_Domain;
-using System;
+﻿using System;
 using System.Xml.Linq;
 
-namespace StarWars_DDD
+namespace StarWars_DDD.Domain
 {
     public class StarDestroyerStarship : Starship
     {

@@ -1,4 +1,4 @@
-﻿using StarWars_DDD.Interfaces;
+﻿using StarWars_DDD.Domain.Interfaces;
 using StarWars_DDD.Entités;
 using System;
 using System.Net.NetworkInformation;
@@ -28,7 +28,9 @@ namespace StarWars_DDD
     }
 }
 */
+/*
 using System;
+using StarWars_DDD.Domain;
 
 namespace StarWars_DDD.Véhicules_Domain
 {
@@ -56,6 +58,44 @@ namespace StarWars_DDD.Véhicules_Domain
             {
                 starDestroyerStarship.Attack(corvette);
             }
+
+            Console.ReadKey();
+        }
+    }
+}
+*/
+using System;
+
+using System;
+using System.Collections.Generic;
+using StarWars_DDD.Application;
+using StarWars_DDD.Application.Commands;
+using StarWars_DDD.Application.Handlers;
+
+namespace StarWars_DDD
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+            var commandBus = new StarshipCommandBus();
+
+
+            var fetchAllStarshipsCommand = new FetchAllStarshipsCommand();
+            var fetchAllStarshipsCommandHandler = new FetchAllStarshipsCommandHandler();
+            fetchAllStarshipsCommand.SuccessHandler = fetchAllStarshipsCommandHandler;
+
+
+            var fetchOneStarshipCommand = new FetchOneStarshipCommand { StarshipId = 2 }; 
+            var fetchOneStarshipCommandHandler = new FetchOneStarshipCommandHandler();
+            fetchOneStarshipCommand.SuccessHandler = fetchOneStarshipCommandHandler;
+
+            Console.WriteLine("Récupération de tout les starships:");
+            commandBus.Execute(fetchAllStarshipsCommand);
+
+            Console.WriteLine("\nRécupératione d'une starship:");
+            commandBus.Execute(fetchOneStarshipCommand);
 
             Console.ReadKey();
         }
